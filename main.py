@@ -1,5 +1,3 @@
-# https://youtu.be/eWRfhZUzrAc
-
 from random import shuffle
 from time import sleep
 
